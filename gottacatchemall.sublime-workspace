@@ -1,0 +1,878 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"MISSIN",
+				"MISSINGNO_INFO_URL"
+			],
+			[
+				"MISSING",
+				"MISSINGNO_FULL_IMAGE_URL"
+			],
+			[
+				"notif",
+				"SBLockScreenDimmedNotification"
+			],
+			[
+				"CATra",
+				"CATransform3DIdentity"
+			],
+			[
+				"CATransf",
+				"CATransform3D"
+			],
+			[
+				"scale",
+				"scaleTransform"
+			],
+			[
+				"mb_screen",
+				"mb_screenOn"
+			],
+			[
+				"keepCon",
+				"setKeepContextInBackground"
+			],
+			[
+				"FBChatHead",
+				"FBChatHeadLayoutLine"
+			],
+			[
+				"notifica",
+				"notificationSender"
+			],
+			[
+				"selector",
+				"notificationSelector"
+			],
+			[
+				"notifia",
+				"notificationName"
+			],
+			[
+				"application",
+				"applicationWillEnterForeground"
+			],
+			[
+				"MBChatHead",
+				"MBChatHeadWindow.h"
+			],
+			[
+				"facebook",
+				"facebookHostView"
+			],
+			[
+				"chatHead",
+				"chatHeadContainerView"
+			],
+			[
+				"stack",
+				"stackView"
+			],
+			[
+				"chatHeadCont",
+				"chatHeadContainerview"
+			],
+			[
+				"_",
+				"_chatHeadViewController"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"mess",
+				"messagebox.plist"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Tweak.xm",
+			"settings":
+			{
+				"buffer_size": 4460,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 323,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "THEOS make package install",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"markdown",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pdf",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"latex",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Self test"
+			],
+			[
+				"preview",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeLint Settings – Default"
+			],
+			[
+				"gist",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 655.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"PluginFactory.listPlugins",
+			"PluginFactory",
+			"PluginFactor",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Adam/Dropbox/Dev/iOS/Jailbreak_Dev/gottacatchemall/gottacatchemall.sublime-project",
+		"/Volumes/Users/Users/Adam/Downloads/gmaps/headers/GMSVectorMapView.h",
+		"/Volumes/Users/Users/Adam/Downloads/gmaps/headers/GMSVectorMapLayer.h",
+		"/Volumes/Users/Users/Adam/Downloads/gmaps/headers/GMSVectorModifier.h",
+		"/Volumes/Users/Users/Adam/Downloads/gmaps/headers/GMSVersion.h",
+		"/Volumes/Users/Users/Adam/Downloads/gmaps/headers/GTLPlusMediaStatusForViewer.h",
+		"/Volumes/Users/Users/Adam/Downloads/gmaps/headers/GMSLAdMetadata.h",
+		"/Volumes/Users/Users/Adam/Downloads/gmaps/headers/GIPClock.h",
+		"/Volumes/Users/Users/Adam/Downloads/gmaps/headers/AZMapState.h",
+		"/Volumes/Users/Users/Adam/Downloads/gmaps/headers/AppDelegate.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBWorkspaceEvent.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBWorkspaceLogger.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBWorkspaceEventQueue.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBWorkspaceTransactionGroup.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBWorkspaceTransactionDelegate-Protocol.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBWorkspaceEventQueueLockAssertion.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBWorkspaceTransactionGroupDelegate-Protocol.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBStarkWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBToAppWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBAppExitedWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBAppToAppWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBRelaunchAppWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBAlertToAppWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBAppToAlertWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBRelaunchBuddyWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBStarkToAppWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBLSApplicationWorkspaceObserver.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBStarkConnectWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBAlertToAlertWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBKeybagNonsenseWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBStarkDisconnectWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBStarkAppExitedWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBStarkAppToAppWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBStarkAppToAppWorkspaceTransactionFactory.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBStarkAlertToAppWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBStarkAppToAlertWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBWebAppToWebAppWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBStarkAlertToAppWorkspaceTransactionFactory.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBReturnToLockscreenWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBStarkAlertToAlertWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBStarkAppToImpersonatedAppWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBStarkImpersonatedAppToAppWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBActivateAppUnderLockScreenWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBStarkAlertToImpersonatedAppWorkspaceTransaction.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBWorkspace.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBWorkStoreObserver-Protocol.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBWorkStore.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBStarkBackgroundWindow.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SpringBoard.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBStarkBannerCell.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBControlCenterWindow.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBConferenceManager.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBContactIcon.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBIconContentView.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBDaemonContext.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBAlert.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBWindowContextAppearance-Protocol.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBWindowContextManager.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBWindowContext.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBWindowHideRequest.h",
+		"/Users/Adam/iOS-Headers/iOS7/SpringBoard/SBWindow.h",
+		"/Volumes/Users/Users/Adam/Downloads/fbhax/Headers/FBMessenger.h",
+		"/Volumes/Users/Users/Adam/Downloads/fbhax/Headers/FBMedia.h",
+		"/Volumes/Users/Users/Adam/Downloads/fbhax/Headers/FBFaceBoxMemProtocol-Protocol.h",
+		"/Volumes/Users/Users/Adam/Downloads/fbhax/Headers/FBMemBookmark.h",
+		"/Volumes/Users/Users/Adam/Downloads/fbhax/Headers/Facebook.h",
+		"/Users/Adam/Dropbox/Dev/iOS/Jailbreak_Dev/MessageBox/MessageBox/MessageBox/Facebook.xm",
+		"/Users/Adam/Dropbox/Dev/iOS/Jailbreak_Dev/MessageBox/Facebook.xm",
+		"/Users/Adam/Dropbox/Dev/iOS/Jailbreak_Dev/MessageBox/README.mdown",
+		"/Users/Adam/Dropbox/Documents/Presentations/ExplodeCode/February2014/example.cy",
+		"/Users/Adam/Dropbox/Dev/iOS/Jailbreak_Dev/messagebox/.git/COMMIT_EDITMSG",
+		"/Users/Adam/Dropbox/Dev/iOS/Jailbreak_Dev/messagebox/README.mdown",
+		"/Users/Adam/Dropbox/Dev/iOS/Jailbreak_Dev/messagebox/messagebox.sublime-project",
+		"/Users/Adam/Dropbox/Dev/iOS/Jailbreak_Dev/messagebox/MBChatHeadWindow.h",
+		"/Users/Adam/Dropbox/Dev/iOS/Jailbreak_Dev/messagebox/MBChatHeadWindow.m",
+		"/Users/Adam/Dropbox/Dev/Sublime/User/Logos.tmLanguage",
+		"/Users/Adam/Dropbox/Dev/iOS/Jailbreak_Dev/messagebox/Tweak.xm",
+		"/Users/Adam/Library/Application Support/Sublime Text 3/Packages/User/Logos.tmLanguage",
+		"/Users/Adam/Dropbox/Dev/Sublime/User/SolarSooty (SL).tmTheme",
+		"/Users/Adam/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Adam/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Adam/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Adam/Dropbox/Dev/iOS/Jailbreak_Dev/messagebox/messagebox.plist",
+		"/Users/Adam/Dropbox/Dev/iOS/Jailbreak_Dev/messagebox/Makefile",
+		"/Users/Adam/Dropbox/Dev/iOS/Jailbreak_Dev/messagebox/backboarddHooks.xm",
+		"/Users/Adam/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/AppDelegate.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/AVAudioPlayerDelegate-Protocol.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/Appirater.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBGrpHackCajmereIsEnglishOnlySorryWeWillSupportOtherLanguagesSoon.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBGraphQLConnection-Protocol.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBGroup.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBPhotoBottomGradientLayer.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBMemBookmark.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/Facebook.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBDirectionalPanGestureRecognizerDelegate-Protocol.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBOpenGraphObjectMemProtocol-Protocol.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBOpenGraphActionMemProtocol-Protocol.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBPhotoGridCellProtocol-Protocol.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBBugReportScreenshotListViewDelegate-Protocol.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBBugReportModalViewControllerPresenting-Protocol.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBOpenGraphObjectProtocol-Protocol.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBOpenGraphAvatarEntity-Protocol.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBOpenGraphActionProtocol-Protocol.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBLiveGraphQLSessionDelegate-Protocol.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBOpenGraphEntity-Protocol.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBBugReportComposerDelegate-Protocol.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBBugReportCategoriesDelegate-Protocol.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBMLeaveGroupThreadRequesterDelegate-Protocol.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/GroupPinnedStoriesEdgeFragment.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/GroupPinnedStoriesConnectionFragment.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/GCDAsyncReadPacket.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/GCDAsyncSocket.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBAppModuleManager.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBAppModule-Protocol.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBApplication.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBAPIResponse.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBTabBarAnimatedNuxView.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBBackboardView.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBCropBottomBar.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBManagedObject.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBFaceBoxMemProtocol-Protocol.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/UINavigationController-FBAnalytics.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/ZREmbeddedMapInterstitialViewController.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/ZREmbeddedInterstitialPlaceholderViewController.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/FBQuickPromotionInterstitialStepViewControllerDelegate-Protocol.h",
+		"/Users/Adam/Downloads/fb/fb/Payload/PaperHeaders/UIViewController-FBAnalytics.h"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rotation",
+			"scatter",
+			"resignActiv",
+			"background",
+			"shouldShow",
+			"level",
+			"sharedIn",
+			"storage",
+			"(id",
+			"id",
+			"scope",
+			"FFF",
+			"FFFFFF",
+			"A6E22E",
+			"class",
+			"	",
+			"    ",
+			"	",
+			"build",
+			"_internal",
+			"close",
+			"open",
+			"player"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Tweak.xm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4184,
+								4184
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountShouldRun": true,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/User/Logos.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1050.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountShouldRun": true,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Makefile Improved/Makefile Improved.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 195.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "gottacatchemall.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gmsvectormapv",
+				"GMSVectorMapView.h"
+			],
+			[
+				"ash",
+				"AshProvider.h"
+			],
+			[
+				"sbworkspace",
+				"SBWorkspace.h"
+			],
+			[
+				"sbuicon",
+				"SBUIController.h"
+			],
+			[
+				"sbwindowcontexthostwrapperview",
+				"SBWindowContextHostWrapperView.h"
+			],
+			[
+				"sbwindowcontext",
+				"SBWindowContextHostManager.h"
+			],
+			[
+				"sbwindowhost",
+				"SBWindowContextHostInfo.h"
+			],
+			[
+				"fbmessengermod",
+				"FBMessengerModule.h"
+			],
+			[
+				"appdele",
+				"AppDelegate.h"
+			],
+			[
+				"fbgrphack",
+				"FBGrpHackCajmereIsEnglishOnlySorryWeWillSupportOtherLanguagesSoon.h"
+			],
+			[
+				"fbappmodulemana",
+				"FBAppModuleManager.h"
+			],
+			[
+				"fbbackboardviewcon",
+				"FBBackboardViewController.h"
+			],
+			[
+				"fbmainstac",
+				"FBMainStackViewController.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

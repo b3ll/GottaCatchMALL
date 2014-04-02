@@ -1,0 +1,9 @@
+Package: ca.adambell.gottacatchmall
+Name: GottaCatchMAll
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Adds Missingno as an obtainable pokémon in the Google Maps' Pokémon Challenge!
+Maintainer: Adam Bell
+Author: Adam Bell
+Section: Tweaks

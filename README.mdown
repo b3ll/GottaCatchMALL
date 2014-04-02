@@ -1,0 +1,47 @@
+# Gotta Catch 'M ALL
+## Injecting Missingno into Google Maps' Pokémon Challenge
+
+### Disclaimer
+**If this wipes out your Pokédex, I'm not held liable. It hasn't happened on mine, but anything's possible...**
+
+### Intro
+They secretly included Mew, but left out Missingno. :(
+
+Missingno is an iconic glitch from the Pokémon series, would glitch out your game like crazy and duplicates whatever item you had in slot 6 128 times. 
+
+YEAH MASTER BALLS!
+
+Let's add him back in! (well mostly)
+
+[Video for Nostalgic Purposes](https://www.youtube.com/watch?v=-tOyBahKkbk)
+
+I didn't hook the actual Pokédex entries since it's much more like the original game where it wasn't even meant to be part of the game.
+
+### How do I Catch 'M?
+Install this on a jailbroken phone, and navigate to Pier 35 on the Embarcadero in San Francisco.
+
+(Like how I placed it next to the coast? ;-) )
+
+![GottaCatchMALL Preview GIF](Missingno.gif)
+
+### Price?
+Totally free! If you'd like to support my continuation of this project (and others!), feel free to [donate](http://www.adambell.ca/donate)! It'd be much appreciated :D
+
+### How do I compile?
+I'm using the Theos build system, as are most jailbreak tweaks (though, I'm using [@rpetrich's fork](https://www.github.com/rpetrich/theos) since it's nicer for working with universal builds).
+
+Once you've got that setup, (nice writeup [here](http://iphonedevwiki.net/index.php/Theos/Getting_Started)) change the Makefile to your liking. After that simply run:
+
+    THEOS_DEVICE_IP=<your ip here> THEOS_DEVICE_PORT=<your SSH port here> make package install
+
+### License?
+Pretty much the BSD license, just don't repackage it and call it your own please!
+
+Also if you do make some changes, feel free to make a pull request and help make things more awesome!
+
+### Contact Info?
+Feel free to follow me on twitter: [@b3ll](https:///www.twitter.com/b3ll)!
+
+### Special Thanks
+me :P  
+Google
